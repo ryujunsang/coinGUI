@@ -1,0 +1,10 @@
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\bin\Debug\AUTO_PTP_V01.exe.config
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\bin\Debug\AUTO_PTP_V01.exe
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\bin\Debug\AUTO_PTP_V01.pdb
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.csproj.AssemblyReference.cache
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.Form1.resources
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.Properties.Resources.resources
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.csproj.GenerateResource.cache
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.csproj.CoreCompileInputs.cache
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.exe
+C:\DATAS_LIKESYS\Developping\SW\BASE_VC\AUTO_PTP_V01\obj\Debug\AUTO_PTP_V01.pdb
